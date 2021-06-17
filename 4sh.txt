@@ -1,1 +1,3 @@
-chmod +x sysinfo.sh
+  
+whatis chmod
+#chmod (1)
